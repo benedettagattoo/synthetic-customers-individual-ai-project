@@ -1,0 +1,51 @@
+item,category,product,QID21,n_real,n_yes_real,share_yes_real,n_synth,n_yes_synth,share_yes_synth
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",40,17,0.425000,40,18,0.450000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",40,23,0.575000,40,26,0.650000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",40,19,0.475000,40,21,0.525000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",40,20,0.500000,40,22,0.550000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",40,19,0.475000,40,28,0.700000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",40,24,0.600000,40,26,0.650000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",40,23,0.575000,40,25,0.625000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",40,21,0.525000,40,29,0.725000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",40,17,0.425000,40,23,0.575000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",40,12,0.300000,40,23,0.575000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",40,14,0.350000,40,13,0.325000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",40,11,0.275000,40,14,0.350000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",40,15,0.375000,40,17,0.425000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",40,14,0.350000,40,18,0.450000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",40,14,0.350000,40,25,0.625000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",40,14,0.350000,40,17,0.425000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",40,12,0.300000,40,18,0.450000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",40,19,0.475000,40,21,0.525000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",40,19,0.475000,40,23,0.575000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",40,10,0.250000,40,19,0.475000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",40,20,0.500000,40,21,0.525000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",40,25,0.625000,40,22,0.550000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",40,25,0.625000,40,28,0.700000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",40,24,0.600000,40,27,0.675000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",40,21,0.525000,40,24,0.600000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",40,15,0.375000,40,16,0.400000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",40,22,0.550000,40,18,0.450000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",40,27,0.675000,40,20,0.500000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",40,17,0.425000,40,19,0.475000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",40,19,0.475000,40,18,0.450000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",40,7,0.175000,40,11,0.275000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",40,7,0.175000,40,11,0.275000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",40,6,0.150000,40,13,0.325000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",40,6,0.150000,40,9,0.225000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",40,4,0.100000,40,8,0.200000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",40,18,0.450000,40,21,0.525000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",40,18,0.450000,40,18,0.450000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",40,26,0.650000,40,22,0.550000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",40,24,0.600000,40,24,0.600000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",40,24,0.600000,40,15,0.375000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",40,27,0.675000,40,20,0.500000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",40,30,0.750000,40,24,0.600000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",40,29,0.725000,40,27,0.675000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",40,29,0.725000,40,28,0.700000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",40,31,0.775000,40,30,0.750000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",40,21,0.525000,40,21,0.525000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",40,27,0.675000,40,25,0.625000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",40,23,0.575000,40,25,0.625000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",40,21,0.525000,40,21,0.525000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",40,20,0.500000,40,19,0.475000

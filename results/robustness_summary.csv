@@ -1,0 +1,28 @@
+block,model,subset,metric,value,n,note
+c_headline,real (200-twin sample),all,yes_share_at_0,0.863164,1732.000000,our 10 items; one random price per respondent x item (no $0 question per person)
+c_headline,real (200-twin sample),all,share_single_threshold,,0.000000,"undefined for real data: each respondent saw ONE random price per product, no ladder"
+c_headline,real (200-twin sample),all,pooled_slope,-0.685688,,"src/04 respondent bootstrap, all 5 brackets pooled"
+c_headline,real (200-twin sample),all,overall_yes_rate,0.475000,2000.000000,H3 real rate: the 200 twins' wave-4 answers at the price each twin saw (plan c: 0.4750)
+c_headline,gemini-3.5-flash-lite,all,yes_share_at_0,1.000000,2000.000000,
+c_headline,gemini-3.5-flash-lite,all,share_single_threshold,1.000000,2000.000000,
+c_headline,gemini-3.5-flash-lite,all,pooled_synthetic_slope,-1.397550,22000.000000,compare2_regression_pooled.csv: relative_price + source:relative_price
+c_headline,gemini-3.5-flash-lite,all,overall_yes_rate,0.515500,2000.000000,H3 synth rate at the real twin's price
+c_headline,gpt-oss:20b,all,yes_share_at_0,0.999500,2000.000000,
+c_headline,gpt-oss:20b,all,share_single_threshold,0.905500,2000.000000,
+c_headline,gpt-oss:20b,all,pooled_synthetic_slope,-1.249780,22000.000000,robust_compare2_regression_pooled.csv: relative_price + source:relative_price
+c_headline,gpt-oss:20b,all,overall_yes_rate,0.571500,2000.000000,H3 synth rate at the real twin's price
+d_agreement,gemini-3.5-flash-lite vs gpt-oss:20b,all,identical_answer_share,0.870864,22000.000000,"share of identical Yes/No answers over the 22,000 (twin, item, price) cells"
+d_agreement,gemini-3.5-flash-lite vs gpt-oss:20b,all,both_single_threshold_share,0.905500,2000.000000,"share of the 2,000 (twin, item) ladders where BOTH models give a single-threshold ladder"
+d_agreement,gemini-3.5-flash-lite vs gpt-oss:20b,all,same_threshold_share,0.277195,1811.000000,share of the both-single-threshold ladders with the SAME threshold (last-Yes position)
+e_check,gpt-oss:20b,excl 16 recovered keys,yes_share_at_0,0.999496,1984.000000,
+e_check,gpt-oss:20b,excl 16 recovered keys,share_single_threshold,0.904738,1984.000000,
+e_check,gpt-oss:20b,excl 16 recovered keys,overall_yes_rate,0.572077,1984.000000,pairs at the real twin's price within the subset
+e_check,gpt-oss:20b,excl 16 recovered keys,pooled_synthetic_slope,,,"not recomputed for subsets (no regression run; check only, plan e)"
+e_check,gpt-oss:20b,format_kind = root_array,yes_share_at_0,1.000000,70.000000,
+e_check,gpt-oss:20b,format_kind = root_array,share_single_threshold,0.914286,70.000000,
+e_check,gpt-oss:20b,format_kind = root_array,overall_yes_rate,0.528571,70.000000,pairs at the real twin's price within the subset
+e_check,gpt-oss:20b,format_kind = root_array,pooled_synthetic_slope,,,"not recomputed for subsets (no regression run; check only, plan e)"
+e_check,gpt-oss:20b,format_kind = wrapper,yes_share_at_0,0.999482,1930.000000,
+e_check,gpt-oss:20b,format_kind = wrapper,share_single_threshold,0.905181,1930.000000,
+e_check,gpt-oss:20b,format_kind = wrapper,overall_yes_rate,0.573057,1930.000000,pairs at the real twin's price within the subset
+e_check,gpt-oss:20b,format_kind = wrapper,pooled_synthetic_slope,,,"not recomputed for subsets (no regression run; check only, plan e)"

@@ -1,0 +1,551 @@
+item,category,product,QID21,price_dollars,price_text,relative_price,free,ladder_index,n_twins,n_yes,share_yes
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",0.990000,$0.99,0.100406,0,1,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",1.970000,$1.97,0.199797,0,2,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",2.960000,$2.96,0.300203,0,3,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",3.940000,$3.94,0.399594,0,4,40,39,0.975000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",4.930000,$4.93,0.500000,0,5,40,23,0.575000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",5.920000,$5.92,0.600406,0,6,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",6.900000,$6.90,0.699797,0,7,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",7.890000,$7.89,0.800203,0,8,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",8.870000,$8.87,0.899594,0,9,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","Less than $30,000",9.860000,$9.86,1.000000,0,10,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",0.990000,$0.99,0.100406,0,1,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",1.970000,$1.97,0.199797,0,2,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",2.960000,$2.96,0.300203,0,3,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",3.940000,$3.94,0.399594,0,4,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",4.930000,$4.93,0.500000,0,5,40,36,0.900000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",5.920000,$5.92,0.600406,0,6,40,5,0.125000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",6.900000,$6.90,0.699797,0,7,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",7.890000,$7.89,0.800203,0,8,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",8.870000,$8.87,0.899594,0,9,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$30,000-$50,000",9.860000,$9.86,1.000000,0,10,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",0.990000,$0.99,0.100406,0,1,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",1.970000,$1.97,0.199797,0,2,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",2.960000,$2.96,0.300203,0,3,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",3.940000,$3.94,0.399594,0,4,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",4.930000,$4.93,0.500000,0,5,40,37,0.925000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",5.920000,$5.92,0.600406,0,6,40,5,0.125000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",6.900000,$6.90,0.699797,0,7,40,1,0.025000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",7.890000,$7.89,0.800203,0,8,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",8.870000,$8.87,0.899594,0,9,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$50,000-$75,000",9.860000,$9.86,1.000000,0,10,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",0.990000,$0.99,0.100406,0,1,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",1.970000,$1.97,0.199797,0,2,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",2.960000,$2.96,0.300203,0,3,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",3.940000,$3.94,0.399594,0,4,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",4.930000,$4.93,0.500000,0,5,40,38,0.950000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",5.920000,$5.92,0.600406,0,6,40,13,0.325000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",6.900000,$6.90,0.699797,0,7,40,1,0.025000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",7.890000,$7.89,0.800203,0,8,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",8.870000,$8.87,0.899594,0,9,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$75,000-$100,000",9.860000,$9.86,1.000000,0,10,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",0.990000,$0.99,0.100406,0,1,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",1.970000,$1.97,0.199797,0,2,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",2.960000,$2.96,0.300203,0,3,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",3.940000,$3.94,0.399594,0,4,40,40,1.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",4.930000,$4.93,0.500000,0,5,40,38,0.950000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",5.920000,$5.92,0.600406,0,6,40,16,0.400000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",6.900000,$6.90,0.699797,0,7,40,5,0.125000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",7.890000,$7.89,0.800203,0,8,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",8.870000,$8.87,0.899594,0,9,40,0,0.000000
+9,Cereal - Ready to Eat,"Cinnamon Toast Crunch, Family Size, 18.8 oz","$100,000 or more",9.860000,$9.86,1.000000,0,10,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",0.540000,$0.54,0.100746,0,1,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",1.070000,$1.07,0.199627,0,2,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",1.610000,$1.61,0.300373,0,3,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",2.140000,$2.14,0.399254,0,4,40,39,0.975000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",2.680000,$2.68,0.500000,0,5,40,32,0.800000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",3.220000,$3.22,0.600746,0,6,40,9,0.225000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",3.750000,$3.75,0.699627,0,7,40,3,0.075000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",4.290000,$4.29,0.800373,0,8,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",4.820000,$4.82,0.899254,0,9,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","Less than $30,000",5.360000,$5.36,1.000000,0,10,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",0.540000,$0.54,0.100746,0,1,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",1.070000,$1.07,0.199627,0,2,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",1.610000,$1.61,0.300373,0,3,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",2.140000,$2.14,0.399254,0,4,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",2.680000,$2.68,0.500000,0,5,40,37,0.925000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",3.220000,$3.22,0.600746,0,6,40,20,0.500000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",3.750000,$3.75,0.699627,0,7,40,8,0.200000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",4.290000,$4.29,0.800373,0,8,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",4.820000,$4.82,0.899254,0,9,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$30,000-$50,000",5.360000,$5.36,1.000000,0,10,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",0.540000,$0.54,0.100746,0,1,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",1.070000,$1.07,0.199627,0,2,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",1.610000,$1.61,0.300373,0,3,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",2.140000,$2.14,0.399254,0,4,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",2.680000,$2.68,0.500000,0,5,40,37,0.925000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",3.220000,$3.22,0.600746,0,6,40,27,0.675000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",3.750000,$3.75,0.699627,0,7,40,7,0.175000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",4.290000,$4.29,0.800373,0,8,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",4.820000,$4.82,0.899254,0,9,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$50,000-$75,000",5.360000,$5.36,1.000000,0,10,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",0.540000,$0.54,0.100746,0,1,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",1.070000,$1.07,0.199627,0,2,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",1.610000,$1.61,0.300373,0,3,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",2.140000,$2.14,0.399254,0,4,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",2.680000,$2.68,0.500000,0,5,40,38,0.950000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",3.220000,$3.22,0.600746,0,6,40,22,0.550000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",3.750000,$3.75,0.699627,0,7,40,9,0.225000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",4.290000,$4.29,0.800373,0,8,40,4,0.100000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",4.820000,$4.82,0.899254,0,9,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$75,000-$100,000",5.360000,$5.36,1.000000,0,10,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",0.540000,$0.54,0.100746,0,1,40,39,0.975000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",1.070000,$1.07,0.199627,0,2,40,39,0.975000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",1.610000,$1.61,0.300373,0,3,40,39,0.975000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",2.140000,$2.14,0.399254,0,4,40,37,0.925000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",2.680000,$2.68,0.500000,0,5,40,34,0.850000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",3.220000,$3.22,0.600746,0,6,40,19,0.475000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",3.750000,$3.75,0.699627,0,7,40,9,0.225000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",4.290000,$4.29,0.800373,0,8,40,1,0.025000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",4.820000,$4.82,0.899254,0,9,40,0,0.000000
+10,Cookies,"Little Debbie Oatmeal Creme Pies, 12 ct","$100,000 or more",5.360000,$5.36,1.000000,0,10,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",1.300000,$1.30,0.100309,0,1,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",2.590000,$2.59,0.199846,0,2,40,39,0.975000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",3.890000,$3.89,0.300154,0,3,40,33,0.825000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",5.180000,$5.18,0.399691,0,4,40,16,0.400000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",6.480000,$6.48,0.500000,0,5,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",7.780000,$7.78,0.600309,0,6,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",9.070000,$9.07,0.699846,0,7,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",10.370000,$10.37,0.800154,0,8,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",11.660000,$11.66,0.899691,0,9,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","Less than $30,000",12.960000,$12.96,1.000000,0,10,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",1.300000,$1.30,0.100309,0,1,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",2.590000,$2.59,0.199846,0,2,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",3.890000,$3.89,0.300154,0,3,40,39,0.975000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",5.180000,$5.18,0.399691,0,4,40,27,0.675000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",6.480000,$6.48,0.500000,0,5,40,6,0.150000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",7.780000,$7.78,0.600309,0,6,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",9.070000,$9.07,0.699846,0,7,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",10.370000,$10.37,0.800154,0,8,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",11.660000,$11.66,0.899691,0,9,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$30,000-$50,000",12.960000,$12.96,1.000000,0,10,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",1.300000,$1.30,0.100309,0,1,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",2.590000,$2.59,0.199846,0,2,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",3.890000,$3.89,0.300154,0,3,40,39,0.975000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",5.180000,$5.18,0.399691,0,4,40,32,0.800000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",6.480000,$6.48,0.500000,0,5,40,8,0.200000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",7.780000,$7.78,0.600309,0,6,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",9.070000,$9.07,0.699846,0,7,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",10.370000,$10.37,0.800154,0,8,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",11.660000,$11.66,0.899691,0,9,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$50,000-$75,000",12.960000,$12.96,1.000000,0,10,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",1.300000,$1.30,0.100309,0,1,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",2.590000,$2.59,0.199846,0,2,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",3.890000,$3.89,0.300154,0,3,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",5.180000,$5.18,0.399691,0,4,40,33,0.825000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",6.480000,$6.48,0.500000,0,5,40,9,0.225000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",7.780000,$7.78,0.600309,0,6,40,2,0.050000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",9.070000,$9.07,0.699846,0,7,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",10.370000,$10.37,0.800154,0,8,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",11.660000,$11.66,0.899691,0,9,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$75,000-$100,000",12.960000,$12.96,1.000000,0,10,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",1.300000,$1.30,0.100309,0,1,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",2.590000,$2.59,0.199846,0,2,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",3.890000,$3.89,0.300154,0,3,40,40,1.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",5.180000,$5.18,0.399691,0,4,40,33,0.825000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",6.480000,$6.48,0.500000,0,5,40,11,0.275000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",7.780000,$7.78,0.600309,0,6,40,1,0.025000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",9.070000,$9.07,0.699846,0,7,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",10.370000,$10.37,0.800154,0,8,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",11.660000,$11.66,0.899691,0,9,40,0,0.000000
+15,Candy - Non-Chocolate,"HARIBO Goldbears, 28.8 oz bag","$100,000 or more",12.960000,$12.96,1.000000,0,10,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",0.850000,$0.85,0.099532,0,1,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",1.710000,$1.71,0.200234,0,2,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",2.560000,$2.56,0.299766,0,3,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",3.420000,$3.42,0.400468,0,4,40,36,0.900000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",4.270000,$4.27,0.500000,0,5,40,17,0.425000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",5.120000,$5.12,0.599532,0,6,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",5.980000,$5.98,0.700234,0,7,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",6.830000,$6.83,0.799766,0,8,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",7.690000,$7.69,0.900468,0,9,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","Less than $30,000",8.540000,$8.54,1.000000,0,10,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",0.850000,$0.85,0.099532,0,1,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",1.710000,$1.71,0.200234,0,2,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",2.560000,$2.56,0.299766,0,3,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",3.420000,$3.42,0.400468,0,4,40,38,0.950000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",4.270000,$4.27,0.500000,0,5,40,21,0.525000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",5.120000,$5.12,0.599532,0,6,40,1,0.025000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",5.980000,$5.98,0.700234,0,7,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",6.830000,$6.83,0.799766,0,8,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",7.690000,$7.69,0.900468,0,9,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$30,000-$50,000",8.540000,$8.54,1.000000,0,10,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",0.850000,$0.85,0.099532,0,1,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",1.710000,$1.71,0.200234,0,2,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",2.560000,$2.56,0.299766,0,3,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",3.420000,$3.42,0.400468,0,4,40,38,0.950000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",4.270000,$4.27,0.500000,0,5,40,32,0.800000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",5.120000,$5.12,0.599532,0,6,40,3,0.075000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",5.980000,$5.98,0.700234,0,7,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",6.830000,$6.83,0.799766,0,8,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",7.690000,$7.69,0.900468,0,9,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$50,000-$75,000",8.540000,$8.54,1.000000,0,10,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",0.850000,$0.85,0.099532,0,1,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",1.710000,$1.71,0.200234,0,2,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",2.560000,$2.56,0.299766,0,3,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",3.420000,$3.42,0.400468,0,4,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",4.270000,$4.27,0.500000,0,5,40,30,0.750000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",5.120000,$5.12,0.599532,0,6,40,5,0.125000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",5.980000,$5.98,0.700234,0,7,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",6.830000,$6.83,0.799766,0,8,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",7.690000,$7.69,0.900468,0,9,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$75,000-$100,000",8.540000,$8.54,1.000000,0,10,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",0.850000,$0.85,0.099532,0,1,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",1.710000,$1.71,0.200234,0,2,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",2.560000,$2.56,0.299766,0,3,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",3.420000,$3.42,0.400468,0,4,40,40,1.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",4.270000,$4.27,0.500000,0,5,40,28,0.700000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",5.120000,$5.12,0.599532,0,6,40,6,0.150000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",5.980000,$5.98,0.700234,0,7,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",6.830000,$6.83,0.799766,0,8,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",7.690000,$7.69,0.900468,0,9,40,0,0.000000
+23,Refrigerated Bacon,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz","$100,000 or more",8.540000,$8.54,1.000000,0,10,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",1.060000,$1.06,0.100379,0,1,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",2.110000,$2.11,0.199811,0,2,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",3.170000,$3.17,0.300189,0,3,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",4.220000,$4.22,0.399621,0,4,40,38,0.950000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",5.280000,$5.28,0.500000,0,5,40,11,0.275000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",6.340000,$6.34,0.600379,0,6,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",7.390000,$7.39,0.699811,0,7,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",8.450000,$8.45,0.800189,0,8,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",9.500000,$9.50,0.899621,0,9,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","Less than $30,000",10.560000,$10.56,1.000000,0,10,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",1.060000,$1.06,0.100379,0,1,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",2.110000,$2.11,0.199811,0,2,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",3.170000,$3.17,0.300189,0,3,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",4.220000,$4.22,0.399621,0,4,40,39,0.975000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",5.280000,$5.28,0.500000,0,5,40,26,0.650000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",6.340000,$6.34,0.600379,0,6,40,6,0.150000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",7.390000,$7.39,0.699811,0,7,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",8.450000,$8.45,0.800189,0,8,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",9.500000,$9.50,0.899621,0,9,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$30,000-$50,000",10.560000,$10.56,1.000000,0,10,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",1.060000,$1.06,0.100379,0,1,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",2.110000,$2.11,0.199811,0,2,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",3.170000,$3.17,0.300189,0,3,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",4.220000,$4.22,0.399621,0,4,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",5.280000,$5.28,0.500000,0,5,40,32,0.800000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",6.340000,$6.34,0.600379,0,6,40,10,0.250000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",7.390000,$7.39,0.699811,0,7,40,1,0.025000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",8.450000,$8.45,0.800189,0,8,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",9.500000,$9.50,0.899621,0,9,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$50,000-$75,000",10.560000,$10.56,1.000000,0,10,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",1.060000,$1.06,0.100379,0,1,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",2.110000,$2.11,0.199811,0,2,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",3.170000,$3.17,0.300189,0,3,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",4.220000,$4.22,0.399621,0,4,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",5.280000,$5.28,0.500000,0,5,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",6.340000,$6.34,0.600379,0,6,40,15,0.375000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",7.390000,$7.39,0.699811,0,7,40,1,0.025000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",8.450000,$8.45,0.800189,0,8,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",9.500000,$9.50,0.899621,0,9,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$75,000-$100,000",10.560000,$10.56,1.000000,0,10,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",1.060000,$1.06,0.100379,0,1,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",2.110000,$2.11,0.199811,0,2,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",3.170000,$3.17,0.300189,0,3,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",4.220000,$4.22,0.399621,0,4,40,40,1.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",5.280000,$5.28,0.500000,0,5,40,35,0.875000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",6.340000,$6.34,0.600379,0,6,40,14,0.350000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",7.390000,$7.39,0.699811,0,7,40,1,0.025000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",8.450000,$8.45,0.800189,0,8,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",9.500000,$9.50,0.899621,0,9,40,0,0.000000
+25,Dairy Products,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks","$100,000 or more",10.560000,$10.56,1.000000,0,10,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",1.120000,$1.12,0.100358,0,1,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",2.230000,$2.23,0.199821,0,2,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",3.350000,$3.35,0.300179,0,3,40,38,0.950000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",4.460000,$4.46,0.399642,0,4,40,21,0.525000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",5.580000,$5.58,0.500000,0,5,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",6.700000,$6.70,0.600358,0,6,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",7.810000,$7.81,0.699821,0,7,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",8.930000,$8.93,0.800179,0,8,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",10.040000,$10.04,0.899642,0,9,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","Less than $30,000",11.160000,$11.16,1.000000,0,10,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",1.120000,$1.12,0.100358,0,1,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",2.230000,$2.23,0.199821,0,2,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",3.350000,$3.35,0.300179,0,3,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",4.460000,$4.46,0.399642,0,4,40,35,0.875000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",5.580000,$5.58,0.500000,0,5,40,4,0.100000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",6.700000,$6.70,0.600358,0,6,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",7.810000,$7.81,0.699821,0,7,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",8.930000,$8.93,0.800179,0,8,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",10.040000,$10.04,0.899642,0,9,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$30,000-$50,000",11.160000,$11.16,1.000000,0,10,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",1.120000,$1.12,0.100358,0,1,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",2.230000,$2.23,0.199821,0,2,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",3.350000,$3.35,0.300179,0,3,40,39,0.975000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",4.460000,$4.46,0.399642,0,4,40,34,0.850000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",5.580000,$5.58,0.500000,0,5,40,9,0.225000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",6.700000,$6.70,0.600358,0,6,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",7.810000,$7.81,0.699821,0,7,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",8.930000,$8.93,0.800179,0,8,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",10.040000,$10.04,0.899642,0,9,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$50,000-$75,000",11.160000,$11.16,1.000000,0,10,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",1.120000,$1.12,0.100358,0,1,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",2.230000,$2.23,0.199821,0,2,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",3.350000,$3.35,0.300179,0,3,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",4.460000,$4.46,0.399642,0,4,40,38,0.950000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",5.580000,$5.58,0.500000,0,5,40,15,0.375000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",6.700000,$6.70,0.600358,0,6,40,1,0.025000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",7.810000,$7.81,0.699821,0,7,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",8.930000,$8.93,0.800179,0,8,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",10.040000,$10.04,0.899642,0,9,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$75,000-$100,000",11.160000,$11.16,1.000000,0,10,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",1.120000,$1.12,0.100358,0,1,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",2.230000,$2.23,0.199821,0,2,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",3.350000,$3.35,0.300179,0,3,40,40,1.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",4.460000,$4.46,0.399642,0,4,40,37,0.925000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",5.580000,$5.58,0.500000,0,5,40,28,0.700000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",6.700000,$6.70,0.600358,0,6,40,6,0.150000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",7.810000,$7.81,0.699821,0,7,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",8.930000,$8.93,0.800179,0,8,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",10.040000,$10.04,0.899642,0,9,40,0,0.000000
+26,Yogurt - Refrigerated,"Chobani Non-Fat Greek Yogurt, Vanilla, 32 oz","$100,000 or more",11.160000,$11.16,1.000000,0,10,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",6.000000,$6.00,0.100033,0,1,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",12.000000,$12.00,0.200067,0,2,40,17,0.425000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",17.990000,$17.99,0.299933,0,3,40,2,0.050000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",23.990000,$23.99,0.399967,0,4,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",29.990000,$29.99,0.500000,0,5,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",35.990000,$35.99,0.600033,0,6,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",41.990000,$41.99,0.700067,0,7,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",47.980000,$47.98,0.799933,0,8,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",53.980000,$53.98,0.899967,0,9,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"Less than $30,000",59.980000,$59.98,1.000000,0,10,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",6.000000,$6.00,0.100033,0,1,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",12.000000,$12.00,0.200067,0,2,40,29,0.725000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",17.990000,$17.99,0.299933,0,3,40,7,0.175000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",23.990000,$23.99,0.399967,0,4,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",29.990000,$29.99,0.500000,0,5,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",35.990000,$35.99,0.600033,0,6,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",41.990000,$41.99,0.700067,0,7,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",47.980000,$47.98,0.799933,0,8,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",53.980000,$53.98,0.899967,0,9,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$30,000-$50,000",59.980000,$59.98,1.000000,0,10,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",6.000000,$6.00,0.100033,0,1,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",12.000000,$12.00,0.200067,0,2,40,34,0.850000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",17.990000,$17.99,0.299933,0,3,40,5,0.125000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",23.990000,$23.99,0.399967,0,4,40,1,0.025000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",29.990000,$29.99,0.500000,0,5,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",35.990000,$35.99,0.600033,0,6,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",41.990000,$41.99,0.700067,0,7,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",47.980000,$47.98,0.799933,0,8,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",53.980000,$53.98,0.899967,0,9,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$50,000-$75,000",59.980000,$59.98,1.000000,0,10,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",6.000000,$6.00,0.100033,0,1,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",12.000000,$12.00,0.200067,0,2,40,31,0.775000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",17.990000,$17.99,0.299933,0,3,40,8,0.200000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",23.990000,$23.99,0.399967,0,4,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",29.990000,$29.99,0.500000,0,5,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",35.990000,$35.99,0.600033,0,6,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",41.990000,$41.99,0.700067,0,7,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",47.980000,$47.98,0.799933,0,8,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",53.980000,$53.98,0.899967,0,9,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$75,000-$100,000",59.980000,$59.98,1.000000,0,10,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",6.000000,$6.00,0.100033,0,1,40,40,1.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",12.000000,$12.00,0.200067,0,2,40,31,0.775000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",17.990000,$17.99,0.299933,0,3,40,9,0.225000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",23.990000,$23.99,0.399967,0,4,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",29.990000,$29.99,0.500000,0,5,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",35.990000,$35.99,0.600033,0,6,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",41.990000,$41.99,0.700067,0,7,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",47.980000,$47.98,0.799933,0,8,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",53.980000,$53.98,0.899967,0,9,40,0,0.000000
+27,Refrigerated Deli Meats,Goya Cooked Ham 16 oz,"$100,000 or more",59.980000,$59.98,1.000000,0,10,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",0.950000,$0.95,0.100211,0,1,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",1.900000,$1.90,0.200422,0,2,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",2.840000,$2.84,0.299578,0,3,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",3.790000,$3.79,0.399789,0,4,40,34,0.850000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",4.740000,$4.74,0.500000,0,5,40,6,0.150000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",5.690000,$5.69,0.600211,0,6,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",6.640000,$6.64,0.700422,0,7,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",7.580000,$7.58,0.799578,0,8,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",8.530000,$8.53,0.899789,0,9,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","Less than $30,000",9.480000,$9.48,1.000000,0,10,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",0.950000,$0.95,0.100211,0,1,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",1.900000,$1.90,0.200422,0,2,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",2.840000,$2.84,0.299578,0,3,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",3.790000,$3.79,0.399789,0,4,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",4.740000,$4.74,0.500000,0,5,40,25,0.625000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",5.690000,$5.69,0.600211,0,6,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",6.640000,$6.64,0.700422,0,7,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",7.580000,$7.58,0.799578,0,8,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",8.530000,$8.53,0.899789,0,9,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$30,000-$50,000",9.480000,$9.48,1.000000,0,10,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",0.950000,$0.95,0.100211,0,1,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",1.900000,$1.90,0.200422,0,2,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",2.840000,$2.84,0.299578,0,3,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",3.790000,$3.79,0.399789,0,4,40,39,0.975000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",4.740000,$4.74,0.500000,0,5,40,26,0.650000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",5.690000,$5.69,0.600211,0,6,40,1,0.025000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",6.640000,$6.64,0.700422,0,7,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",7.580000,$7.58,0.799578,0,8,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",8.530000,$8.53,0.899789,0,9,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$50,000-$75,000",9.480000,$9.48,1.000000,0,10,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",0.950000,$0.95,0.100211,0,1,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",1.900000,$1.90,0.200422,0,2,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",2.840000,$2.84,0.299578,0,3,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",3.790000,$3.79,0.399789,0,4,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",4.740000,$4.74,0.500000,0,5,40,36,0.900000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",5.690000,$5.69,0.600211,0,6,40,9,0.225000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",6.640000,$6.64,0.700422,0,7,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",7.580000,$7.58,0.799578,0,8,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",8.530000,$8.53,0.899789,0,9,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$75,000-$100,000",9.480000,$9.48,1.000000,0,10,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",0.950000,$0.95,0.100211,0,1,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",1.900000,$1.90,0.200422,0,2,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",2.840000,$2.84,0.299578,0,3,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",3.790000,$3.79,0.399789,0,4,40,40,1.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",4.740000,$4.74,0.500000,0,5,40,35,0.875000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",5.690000,$5.69,0.600211,0,6,40,12,0.300000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",6.640000,$6.64,0.700422,0,7,40,2,0.050000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",7.580000,$7.58,0.799578,0,8,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",8.530000,$8.53,0.899789,0,9,40,0,0.000000
+31,Fresh Fruit,"Fresh Raspberries, 12 oz container","$100,000 or more",9.480000,$9.48,1.000000,0,10,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",1.340000,$1.34,0.100299,0,1,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",2.670000,$2.67,0.199850,0,2,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",4.010000,$4.01,0.300150,0,3,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",5.340000,$5.34,0.399701,0,4,40,36,0.900000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",6.680000,$6.68,0.500000,0,5,40,24,0.600000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",8.020000,$8.02,0.600299,0,6,40,2,0.050000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",9.350000,$9.35,0.699850,0,7,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",10.690000,$10.69,0.800150,0,8,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",12.020000,$12.02,0.899701,0,9,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","Less than $30,000",13.360000,$13.36,1.000000,0,10,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",1.340000,$1.34,0.100299,0,1,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",2.670000,$2.67,0.199850,0,2,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",4.010000,$4.01,0.300150,0,3,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",5.340000,$5.34,0.399701,0,4,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",6.680000,$6.68,0.500000,0,5,40,33,0.825000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",8.020000,$8.02,0.600299,0,6,40,15,0.375000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",9.350000,$9.35,0.699850,0,7,40,1,0.025000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",10.690000,$10.69,0.800150,0,8,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",12.020000,$12.02,0.899701,0,9,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$30,000-$50,000",13.360000,$13.36,1.000000,0,10,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",1.340000,$1.34,0.100299,0,1,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",2.670000,$2.67,0.199850,0,2,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",4.010000,$4.01,0.300150,0,3,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",5.340000,$5.34,0.399701,0,4,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",6.680000,$6.68,0.500000,0,5,40,35,0.875000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",8.020000,$8.02,0.600299,0,6,40,22,0.550000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",9.350000,$9.35,0.699850,0,7,40,4,0.100000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",10.690000,$10.69,0.800150,0,8,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",12.020000,$12.02,0.899701,0,9,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$50,000-$75,000",13.360000,$13.36,1.000000,0,10,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",1.340000,$1.34,0.100299,0,1,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",2.670000,$2.67,0.199850,0,2,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",4.010000,$4.01,0.300150,0,3,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",5.340000,$5.34,0.399701,0,4,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",6.680000,$6.68,0.500000,0,5,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",8.020000,$8.02,0.600299,0,6,40,26,0.650000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",9.350000,$9.35,0.699850,0,7,40,8,0.200000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",10.690000,$10.69,0.800150,0,8,40,1,0.025000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",12.020000,$12.02,0.899701,0,9,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$75,000-$100,000",13.360000,$13.36,1.000000,0,10,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",1.340000,$1.34,0.100299,0,1,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",2.670000,$2.67,0.199850,0,2,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",4.010000,$4.01,0.300150,0,3,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",5.340000,$5.34,0.399701,0,4,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",6.680000,$6.68,0.500000,0,5,40,40,1.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",8.020000,$8.02,0.600299,0,6,40,28,0.700000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",9.350000,$9.35,0.699850,0,7,40,14,0.350000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",10.690000,$10.69,0.800150,0,8,40,3,0.075000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",12.020000,$12.02,0.899701,0,9,40,0,0.000000
+36,Toilet Tissue,"Angel Soft Toilet Paper, 9 Mega Rolls","$100,000 or more",13.360000,$13.36,1.000000,0,10,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",3.190000,$3.19,0.099875,0,1,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",6.390000,$6.39,0.200063,0,2,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",9.580000,$9.58,0.299937,0,3,40,39,0.975000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",12.780000,$12.78,0.400125,0,4,40,22,0.550000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",15.970000,$15.97,0.500000,0,5,40,5,0.125000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",19.160000,$19.16,0.599875,0,6,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",22.360000,$22.36,0.700063,0,7,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",25.550000,$25.55,0.799937,0,8,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",28.750000,$28.75,0.900125,0,9,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","Less than $30,000",31.940000,$31.94,1.000000,0,10,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",3.190000,$3.19,0.099875,0,1,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",6.390000,$6.39,0.200063,0,2,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",9.580000,$9.58,0.299937,0,3,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",12.780000,$12.78,0.400125,0,4,40,35,0.875000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",15.970000,$15.97,0.500000,0,5,40,14,0.350000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",19.160000,$19.16,0.599875,0,6,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",22.360000,$22.36,0.700063,0,7,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",25.550000,$25.55,0.799937,0,8,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",28.750000,$28.75,0.900125,0,9,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$30,000-$50,000",31.940000,$31.94,1.000000,0,10,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",3.190000,$3.19,0.099875,0,1,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",6.390000,$6.39,0.200063,0,2,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",9.580000,$9.58,0.299937,0,3,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",12.780000,$12.78,0.400125,0,4,40,37,0.925000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",15.970000,$15.97,0.500000,0,5,40,19,0.475000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",19.160000,$19.16,0.599875,0,6,40,1,0.025000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",22.360000,$22.36,0.700063,0,7,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",25.550000,$25.55,0.799937,0,8,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",28.750000,$28.75,0.900125,0,9,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$50,000-$75,000",31.940000,$31.94,1.000000,0,10,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",3.190000,$3.19,0.099875,0,1,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",6.390000,$6.39,0.200063,0,2,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",9.580000,$9.58,0.299937,0,3,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",12.780000,$12.78,0.400125,0,4,40,39,0.975000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",15.970000,$15.97,0.500000,0,5,40,24,0.600000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",19.160000,$19.16,0.599875,0,6,40,8,0.200000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",22.360000,$22.36,0.700063,0,7,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",25.550000,$25.55,0.799937,0,8,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",28.750000,$28.75,0.900125,0,9,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$75,000-$100,000",31.940000,$31.94,1.000000,0,10,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",0.000000,$0 (product is free),0.000000,1,0,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",3.190000,$3.19,0.099875,0,1,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",6.390000,$6.39,0.200063,0,2,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",9.580000,$9.58,0.299937,0,3,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",12.780000,$12.78,0.400125,0,4,40,40,1.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",15.970000,$15.97,0.500000,0,5,40,28,0.700000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",19.160000,$19.16,0.599875,0,6,40,5,0.125000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",22.360000,$22.36,0.700063,0,7,40,1,0.025000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",25.550000,$25.55,0.799937,0,8,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",28.750000,$28.75,0.900125,0,9,40,0,0.000000
+38,Batteries,"Duracell Coppertop AA, 16 pack","$100,000 or more",31.940000,$31.94,1.000000,0,10,40,0,0.000000

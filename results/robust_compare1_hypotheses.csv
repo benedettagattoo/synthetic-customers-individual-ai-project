@@ -1,0 +1,4 @@
+hypothesis,n_items,n_testable,sign_agree_n,sign_agree_share,corr_all10,corr_testable,n_inside_real_ci,real_rate,real_rate_ci_lo,real_rate_ci_hi,synth_rate,synth_rate_ci_lo,synth_rate_ci_hi,verdict,rejected
+H1 (direction),10.000000,1.000000,0.000000,0.000000,0.158421,,,,,,,,,rejected (section 6 condition met) [correlation undefined with < 2 testable products: decided on sign share alone],True
+H2 (size of gaps),10.000000,,,,,,6.000000,,,,,,,rejected (section 6 condition met),True
+H3 (overall rate),,,,,,,,0.475000,0.449000,0.501500,0.571500,0.549000,0.595000,not rejected,False

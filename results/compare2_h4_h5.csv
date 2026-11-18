@@ -1,0 +1,21 @@
+part,item,product,real_slope,real_slope_ci_low,real_slope_ci_high,synth_slope,synth_slope_ci_low,synth_slope_ci_high,outside_real_ci,sign_opposite,H4_fail,joint_diff_coef,joint_diff_se,joint_diff_ci_low,joint_diff_ci_high,joint_diff_p,real_gap,real_gap_ci_low,real_gap_ci_high,synth_gap,synth_gap_ci_low,synth_gap_ci_high,sign_agree,testable_H5
+H4,9,"Cinnamon Toast Crunch, Family Size, 18.8 oz",-0.771299,-0.833297,-0.703012,-1.488216,-1.495197,-1.481221,True,False,True,-0.716918,0.033575,-0.782724,-0.651112,0.000000,,,,,,,,
+H4,10,"Little Debbie Oatmeal Creme Pies, 12 ct, 16.2 oz",-0.474110,-0.545117,-0.399708,-1.429694,-1.448865,-1.407234,True,False,True,-0.955584,0.038919,-1.031863,-0.879305,0.000000,,,,,,,,
+H4,15,"HARIBO Goldbears Original Gummy Bears, 28.8oz Stand Up Bag",-0.556408,-0.621839,-0.488989,-1.394958,-1.413161,-1.374930,True,False,True,-0.838551,0.035959,-0.909030,-0.768071,0.000000,,,,,,,,
+H4,23,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz Box",-0.585474,-0.658593,-0.515756,-1.480738,-1.487387,-1.473462,True,False,True,-0.895264,0.036156,-0.966129,-0.824400,0.000000,,,,,,,,
+H4,25,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks",-0.959094,-1.016044,-0.895171,-1.479662,-1.485738,-1.472375,True,False,True,-0.520568,0.030755,-0.580846,-0.460290,0.000000,,,,,,,,
+H4,26,"Chobani Non-Fat Greek Yogurt, Vanilla Blended 32 oz",-0.767005,-0.833346,-0.698705,-1.433564,-1.446599,-1.419573,True,False,True,-0.666559,0.034473,-0.734126,-0.598993,0.000000,,,,,,,,
+H4,27,Goya Cooked Ham 16 oz,-0.207331,-0.253667,-0.161832,-0.894533,-0.930007,-0.860292,True,False,True,-0.687201,0.029775,-0.745558,-0.628844,0.000000,,,,,,,,
+H4,31,"Fresh Raspberries, 12 oz container",-0.962937,-1.021470,-0.907689,-1.479198,-1.486184,-1.471911,True,False,True,-0.516261,0.029263,-0.573615,-0.458906,0.000000,,,,,,,,
+H4,36,"Angel Soft Toilet Paper, 9 Mega Rolls",-0.675641,-0.739814,-0.617942,-1.444611,-1.458572,-1.428549,True,False,True,-0.768970,0.032615,-0.832894,-0.705046,0.000000,,,,,,,,
+H4,38,"Duracell Coppertop AA Battery, Long Lasting Double A Batteries, 16 Pack",-0.912812,-0.974222,-0.849487,-1.450416,-1.461319,-1.438908,True,False,True,-0.537604,0.030879,-0.598125,-0.477083,0.000000,,,,,,,,
+H5,9,"Cinnamon Toast Crunch, Family Size, 18.8 oz",,,,,,,,,,,,,,,0.029323,-0.166371,0.232234,0.019860,-0.006323,0.049159,True,False
+H5,10,"Little Debbie Oatmeal Creme Pies, 12 ct, 16.2 oz",,,,,,,,,,,,,,,0.112178,-0.116284,0.328959,0.088150,0.021454,0.178605,True,False
+H5,15,"HARIBO Goldbears Original Gummy Bears, 28.8oz Stand Up Bag",,,,,,,,,,,,,,,0.073369,-0.143220,0.284678,-0.156241,-0.232421,-0.091363,False,False
+H5,23,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz Box",,,,,,,,,,,,,,,-0.193076,-0.411106,0.026603,-0.025771,-0.050818,-0.003187,True,False
+H5,25,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks",,,,,,,,,,,,,,,0.054108,-0.131738,0.220865,-0.019574,-0.041095,0.003241,False,False
+H5,26,"Chobani Non-Fat Greek Yogurt, Vanilla Blended 32 oz",,,,,,,,,,,,,,,-0.017902,-0.220226,0.172435,-0.121363,-0.168963,-0.080320,True,False
+H5,27,Goya Cooked Ham 16 oz,,,,,,,,,,,,,,,-0.026906,-0.162243,0.108912,-0.201517,-0.309162,-0.093943,True,False
+H5,31,"Fresh Raspberries, 12 oz container",,,,,,,,,,,,,,,0.010162,-0.160551,0.184324,-0.043898,-0.071416,-0.015465,False,False
+H5,36,"Angel Soft Toilet Paper, 9 Mega Rolls",,,,,,,,,,,,,,,0.077415,-0.108294,0.267106,0.083513,0.031767,0.139468,True,False
+H5,38,"Duracell Coppertop AA Battery, Long Lasting Double A Batteries, 16 Pack",,,,,,,,,,,,,,,-0.035765,-0.236178,0.158928,-0.112055,-0.149906,-0.074149,True,False

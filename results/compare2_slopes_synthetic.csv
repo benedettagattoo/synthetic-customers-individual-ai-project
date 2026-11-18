@@ -1,0 +1,45 @@
+item,product,sample,n_twins,n_obs,slope,slope_ci_low,slope_ci_high,free_coef,free_ci_low,free_ci_high
+9.000000,"Cinnamon Toast Crunch, Family Size, 18.8 oz",all,200.000000,2200.000000,-1.488216,-1.495197,-1.481221,-0.327019,-0.335009,-0.318025
+9.000000,"Cinnamon Toast Crunch, Family Size, 18.8 oz",lowest,40.000000,440.000000,-1.485565,-1.498343,-1.470809,-0.272061,-0.295230,-0.248530
+9.000000,"Cinnamon Toast Crunch, Family Size, 18.8 oz",highest,40.000000,440.000000,-1.465705,-1.488015,-1.439402,-0.353638,-0.368071,-0.337902
+9.000000,"Cinnamon Toast Crunch, Family Size, 18.8 oz",high_minus_low,,,0.019860,-0.006323,0.049159,,,
+10.000000,"Little Debbie Oatmeal Creme Pies, 12 ct, 16.2 oz",all,200.000000,2200.000000,-1.429694,-1.448865,-1.407234,-0.340832,-0.354484,-0.322144
+10.000000,"Little Debbie Oatmeal Creme Pies, 12 ct, 16.2 oz",lowest,40.000000,440.000000,-1.472347,-1.494210,-1.448796,-0.317291,-0.340587,-0.290017
+10.000000,"Little Debbie Oatmeal Creme Pies, 12 ct, 16.2 oz",highest,40.000000,440.000000,-1.384196,-1.445858,-1.294941,-0.303808,-0.357298,-0.218117
+10.000000,"Little Debbie Oatmeal Creme Pies, 12 ct, 16.2 oz",high_minus_low,,,0.088150,0.021454,0.178605,,,
+15.000000,"HARIBO Goldbears Original Gummy Bears, 28.8oz Stand Up Bag",all,200.000000,2200.000000,-1.394958,-1.413161,-1.374930,-0.151227,-0.171236,-0.129890
+15.000000,"HARIBO Goldbears Original Gummy Bears, 28.8oz Stand Up Bag",lowest,40.000000,440.000000,-1.282101,-1.342514,-1.208110,-0.025155,-0.081856,0.042840
+15.000000,"HARIBO Goldbears Original Gummy Bears, 28.8oz Stand Up Bag",highest,40.000000,440.000000,-1.438341,-1.461551,-1.412718,-0.203588,-0.237322,-0.167720
+15.000000,"HARIBO Goldbears Original Gummy Bears, 28.8oz Stand Up Bag",high_minus_low,,,-0.156241,-0.232421,-0.091363,,,
+23.000000,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz Box",all,200.000000,2200.000000,-1.480738,-1.487387,-1.473462,-0.281906,-0.294242,-0.269911
+23.000000,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz Box",lowest,40.000000,440.000000,-1.461346,-1.481909,-1.437470,-0.236241,-0.268064,-0.202707
+23.000000,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz Box",highest,40.000000,440.000000,-1.487118,-1.495970,-1.477415,-0.302915,-0.325782,-0.280508
+23.000000,"Oscar Mayer Fully Cooked Original Bacon, 2.52 oz Box",high_minus_low,,,-0.025771,-0.050818,-0.003187,,,
+25.000000,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks",all,200.000000,2200.000000,-1.479662,-1.485738,-1.472375,-0.308314,-0.319961,-0.296981
+25.000000,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks",lowest,40.000000,440.000000,-1.462769,-1.476867,-1.446224,-0.227023,-0.250365,-0.202195
+25.000000,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks",highest,40.000000,440.000000,-1.482343,-1.495495,-1.466326,-0.340288,-0.358046,-0.319996
+25.000000,"Land O Lakes Salted Stick Butter, 16 oz, 4 sticks",high_minus_low,,,-0.019574,-0.041095,0.003241,,,
+26.000000,"Chobani Non-Fat Greek Yogurt, Vanilla Blended 32 oz",all,200.000000,2200.000000,-1.433564,-1.446599,-1.419573,-0.200960,-0.217639,-0.183926
+26.000000,"Chobani Non-Fat Greek Yogurt, Vanilla Blended 32 oz",lowest,40.000000,440.000000,-1.353422,-1.390836,-1.310745,-0.091882,-0.130699,-0.048210
+26.000000,"Chobani Non-Fat Greek Yogurt, Vanilla Blended 32 oz",highest,40.000000,440.000000,-1.474784,-1.493022,-1.453577,-0.288631,-0.319245,-0.256087
+26.000000,"Chobani Non-Fat Greek Yogurt, Vanilla Blended 32 oz",high_minus_low,,,-0.121363,-0.168963,-0.080320,,,
+27.000000,Goya Cooked Ham 16 oz,all,200.000000,2200.000000,-0.894533,-0.930007,-0.860292,0.321007,0.291675,0.348339
+27.000000,Goya Cooked Ham 16 oz,lowest,40.000000,440.000000,-0.740898,-0.821299,-0.666661,0.445006,0.380718,0.503928
+27.000000,Goya Cooked Ham 16 oz,highest,40.000000,440.000000,-0.942416,-1.017320,-0.864412,0.281671,0.220004,0.345464
+27.000000,Goya Cooked Ham 16 oz,high_minus_low,,,-0.201517,-0.309162,-0.093943,,,
+31.000000,"Fresh Raspberries, 12 oz container",all,200.000000,2200.000000,-1.479198,-1.486184,-1.471911,-0.286059,-0.298059,-0.273733
+31.000000,"Fresh Raspberries, 12 oz container",lowest,40.000000,440.000000,-1.437059,-1.458466,-1.413730,-0.190382,-0.218355,-0.161339
+31.000000,"Fresh Raspberries, 12 oz container",highest,40.000000,440.000000,-1.480957,-1.496404,-1.463081,-0.337026,-0.354624,-0.317048
+31.000000,"Fresh Raspberries, 12 oz container",high_minus_low,,,-0.043898,-0.071416,-0.015465,,,
+36.000000,"Angel Soft Toilet Paper, 9 Mega Rolls",all,200.000000,2200.000000,-1.444611,-1.458572,-1.428549,-0.340536,-0.350863,-0.329215
+36.000000,"Angel Soft Toilet Paper, 9 Mega Rolls",lowest,40.000000,440.000000,-1.470175,-1.490288,-1.445104,-0.263596,-0.296838,-0.226913
+36.000000,"Angel Soft Toilet Paper, 9 Mega Rolls",highest,40.000000,440.000000,-1.386662,-1.432706,-1.334938,-0.375164,-0.385140,-0.365097
+36.000000,"Angel Soft Toilet Paper, 9 Mega Rolls",high_minus_low,,,0.083513,0.031767,0.139468,,,
+38.000000,"Duracell Coppertop AA Battery, Long Lasting Double A Batteries, 16 Pack",all,200.000000,2200.000000,-1.450416,-1.461319,-1.438908,-0.236229,-0.251890,-0.219899
+38.000000,"Duracell Coppertop AA Battery, Long Lasting Double A Batteries, 16 Pack",lowest,40.000000,440.000000,-1.372585,-1.406884,-1.337999,-0.119922,-0.160276,-0.079096
+38.000000,"Duracell Coppertop AA Battery, Long Lasting Double A Batteries, 16 Pack",highest,40.000000,440.000000,-1.484640,-1.496928,-1.468885,-0.301552,-0.322419,-0.279871
+38.000000,"Duracell Coppertop AA Battery, Long Lasting Double A Batteries, 16 Pack",high_minus_low,,,-0.112055,-0.149906,-0.074149,,,
+,Pooled (item fixed effects),all,200.000000,22000.000000,-1.397550,-1.403030,-1.392104,-0.215203,-0.222736,-0.207435
+,Pooled (item fixed effects),lowest,40.000000,4400.000000,-1.353810,-1.366907,-1.340173,-0.129846,-0.144188,-0.114614
+,Pooled (item fixed effects),highest,40.000000,4400.000000,-1.402713,-1.413430,-1.392000,-0.252492,-0.263792,-0.240351
+,Pooled (item fixed effects),high_minus_low,,,-0.048903,-0.066359,-0.031788,,,

@@ -1,0 +1,32 @@
+[2026-11-16T00:23:48-08:00] === main run start | model gemini-3.5-flash-lite (expected version 3.5-flash-lite-07-2026, temperature 1.0) ===
+[2026-11-16T00:23:48-08:00] re-validation of saved invalid outputs: nothing to recover
+[2026-11-16T00:23:48-08:00] resume: done=1788 excluded=20 remaining=212 | recovered by re-validation=0 | requests already sent today (Pacific)=0/500
+[2026-11-16T00:23:48-08:00] models.get: gemini-3.5-flash-lite version='3.5-flash-lite-07-2026' (expected '3.5-flash-lite-07-2026')
+[2026-11-16T00:24:44-08:00] progress: 1800 calls valid, requests today=12/500
+[2026-11-16T00:26:10-08:00] API error at C177/36 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C177', 36) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T00:26:24-08:00] API error at C178/36 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C178', 36) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T00:29:05-08:00] progress: 1850 calls valid, requests today=64/500
+[2026-11-16T00:29:54-08:00] API error at C187/27 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}} | ('C187', 27) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T00:31:05-08:00] API error at C188/26 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C188', 26) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T00:33:25-08:00] progress: 1900 calls valid, requests today=116/500
+[2026-11-16T00:33:50-08:00] API error at C191/38 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C191', 38) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T00:35:30-08:00] API error at C193/38 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C193', 38) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T00:36:19-08:00] API error at C194/38 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C194', 38) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T00:37:50-08:00] progress: 1950 calls valid, requests today=169/500
+[2026-11-16T00:38:16-08:00] API error at C197/27 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C197', 27) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T00:41:25-08:00] === main run end (finished) | valid=204 retried-once=0 excluded_new=0 api_error_skipped=8 quota_stop=0 | total excluded=20 | requests today=212/500
+[2026-11-16T01:13:02-08:00] === main run start | model gemini-3.5-flash-lite (expected version 3.5-flash-lite-07-2026, temperature 1.0) ===
+[2026-11-16T01:13:02-08:00] re-validation of saved invalid outputs: nothing to recover
+[2026-11-16T01:13:02-08:00] resume: done=1992 excluded=20 remaining=8 | recovered by re-validation=0 | requests already sent today (Pacific)=212/500
+[2026-11-16T01:13:03-08:00] models.get: gemini-3.5-flash-lite version='3.5-flash-lite-07-2026' (expected '3.5-flash-lite-07-2026')
+[2026-11-16T01:13:09-08:00] API error at C178/36 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C178', 36) stays not-done, retried on next restart (consecutive API errors: 1/3)
+[2026-11-16T01:13:14-08:00] API error at C187/27 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C187', 27) stays not-done, retried on next restart (consecutive API errors: 2/3)
+[2026-11-16T01:13:19-08:00] API error at C188/26 attempt 1: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}} | ('C188', 26) stays not-done, retried on next restart (consecutive API errors: 3/3)
+[2026-11-16T01:13:19-08:00] 3 consecutive API errors: run stops so a persistent error cannot burn the daily quota; nothing excluded
+[2026-11-16T01:13:19-08:00] === main run end (api_errors_3x) | valid=1 retried-once=0 excluded_new=0 api_error_skipped=3 quota_stop=0 | total excluded=20 | requests today=216/500
+[2026-11-16T03:00:36-08:00] === main run start | model gemini-3.5-flash-lite (expected version 3.5-flash-lite-07-2026, temperature 1.0) ===
+[2026-11-16T03:00:36-08:00] re-validation of saved invalid outputs: nothing to recover
+[2026-11-16T03:00:36-08:00] resume: done=1993 excluded=20 remaining=7 | recovered by re-validation=0 | requests already sent today (Pacific)=216/500
+[2026-11-16T03:00:36-08:00] models.get: gemini-3.5-flash-lite version='3.5-flash-lite-07-2026' (expected '3.5-flash-lite-07-2026')
+[2026-11-16T03:01:08-08:00] progress: 2000 calls valid, requests today=223/500
+[2026-11-16T03:01:08-08:00] === main run end (finished) | valid=7 retried-once=0 excluded_new=0 api_error_skipped=0 quota_stop=0 | total excluded=20 | requests today=223/500

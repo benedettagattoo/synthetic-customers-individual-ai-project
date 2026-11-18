@@ -1,0 +1,43 @@
+model,term,coef,se,z,p,ci_low,ci_high
+relative_price,Intercept,1.033907,0.034959,29.574847,0.000000,0.965389,1.102425
+relative_price,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$100,000 or more]",-0.023021,0.044701,-0.514994,0.606557,-0.110633,0.064592
+relative_price,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$30,000-$50,000]",0.050426,0.041640,1.211006,0.225893,-0.031187,0.132039
+relative_price,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$50,000-$75,000]",0.036817,0.043089,0.854434,0.392865,-0.047636,0.121269
+relative_price,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$75,000-$100,000]",0.018879,0.040844,0.462212,0.643929,-0.061174,0.098932
+relative_price,"C(item, Treatment(reference=9))[T.10]",0.025388,0.022682,1.119290,0.263016,-0.019068,0.069843
+relative_price,"C(item, Treatment(reference=9))[T.15]",-0.140829,0.023558,-5.977854,0.000000,-0.187003,-0.094655
+relative_price,"C(item, Treatment(reference=9))[T.23]",-0.062097,0.025382,-2.446489,0.014426,-0.111845,-0.012349
+relative_price,"C(item, Treatment(reference=9))[T.25]",0.032181,0.025404,1.266752,0.205244,-0.017611,0.081972
+relative_price,"C(item, Treatment(reference=9))[T.26]",-0.046680,0.024534,-1.902683,0.057082,-0.094765,0.001405
+relative_price,"C(item, Treatment(reference=9))[T.27]",-0.325155,0.025940,-12.535065,0.000000,-0.375995,-0.274314
+relative_price,"C(item, Treatment(reference=9))[T.31]",0.028425,0.023366,1.216513,0.223790,-0.017372,0.074222
+relative_price,"C(item, Treatment(reference=9))[T.36]",0.125021,0.022511,5.553892,0.000000,0.080901,0.169141
+relative_price,"C(item, Treatment(reference=9))[T.38]",0.003218,0.025077,0.128309,0.897905,-0.045932,0.052367
+relative_price,source,0.017500,0.030749,0.569117,0.569277,-0.042768,0.077768
+relative_price,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$100,000 or more]:source",0.070000,0.047016,1.488860,0.136524,-0.022149,0.162149
+relative_price,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$30,000-$50,000]:source",-0.010000,0.046367,-0.215671,0.829244,-0.100877,0.080877
+relative_price,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$50,000-$75,000]:source",0.015000,0.045125,0.332411,0.739579,-0.073443,0.103443
+relative_price,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$75,000-$100,000]:source",0.040000,0.042902,0.932366,0.351148,-0.044086,0.124086
+relative_price,relative_price,-1.062957,0.018963,-56.055210,0.000000,-1.100123,-1.025790
+relative_price,free,-0.125211,0.019778,-6.330772,0.000000,-0.163975,-0.086447
+price_dollars,Intercept,0.599571,0.037865,15.834528,0.000000,0.525358,0.673785
+price_dollars,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$100,000 or more]",-0.007246,0.045026,-0.160938,0.872142,-0.095495,0.081002
+price_dollars,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$30,000-$50,000]",0.051963,0.042593,1.219999,0.222465,-0.031517,0.135444
+price_dollars,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$50,000-$75,000]",0.060783,0.044283,1.372609,0.169874,-0.026010,0.147576
+price_dollars,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$75,000-$100,000]",0.034041,0.040471,0.841104,0.400290,-0.045282,0.113363
+price_dollars,"C(item, Treatment(reference=9))[T.10]",-0.038740,0.032493,-1.192257,0.233160,-0.102424,0.024945
+price_dollars,"C(item, Treatment(reference=9))[T.15]",-0.101415,0.033069,-3.066755,0.002164,-0.166230,-0.036601
+price_dollars,"C(item, Treatment(reference=9))[T.23]",-0.111333,0.034612,-3.216642,0.001297,-0.179171,-0.043496
+price_dollars,"C(item, Treatment(reference=9))[T.25]",0.064160,0.035272,1.819035,0.068906,-0.004971,0.133292
+price_dollars,"C(item, Treatment(reference=9))[T.26]",-0.038861,0.034639,-1.121883,0.261912,-0.106752,0.029030
+price_dollars,"C(item, Treatment(reference=9))[T.27]",0.336141,0.039566,8.495734,0.000000,0.258593,0.413688
+price_dollars,"C(item, Treatment(reference=9))[T.31]",-0.007324,0.034318,-0.213417,0.831002,-0.074587,0.059939
+price_dollars,"C(item, Treatment(reference=9))[T.36]",0.187806,0.032066,5.856865,0.000000,0.124958,0.250655
+price_dollars,"C(item, Treatment(reference=9))[T.38]",0.283948,0.034558,8.216666,0.000000,0.216216,0.351680
+price_dollars,source,0.017500,0.030749,0.569117,0.569277,-0.042768,0.077768
+price_dollars,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$100,000 or more]:source",0.070000,0.047016,1.488860,0.136524,-0.022149,0.162149
+price_dollars,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$30,000-$50,000]:source",-0.010000,0.046367,-0.215671,0.829244,-0.100877,0.080877
+price_dollars,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$50,000-$75,000]:source",0.015000,0.045125,0.332411,0.739579,-0.073443,0.103443
+price_dollars,"C(QID21, Treatment(reference=""Less than $30,000""))[T.$75,000-$100,000]:source",0.040000,0.042902,0.932366,0.351148,-0.044086,0.124086
+price_dollars,price_dollars,-0.026655,0.000981,-27.157459,0.000000,-0.028578,-0.024731
+price_dollars,free,0.192271,0.021018,9.147784,0.000000,0.151076,0.233466

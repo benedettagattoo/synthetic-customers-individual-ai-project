@@ -1,0 +1,31 @@
+model,term,coef,se,z,p,ci_low,ci_high
+relative_price,Intercept,0.833413,0.009463,88.067647,0.000000,0.814865,0.851961
+relative_price,"C(item, Treatment(reference=9))[T.10]",0.037244,0.007006,5.316202,0.000000,0.023513,0.050976
+relative_price,"C(item, Treatment(reference=9))[T.15]",-0.122464,0.006442,-19.011083,0.000000,-0.135090,-0.109839
+relative_price,"C(item, Treatment(reference=9))[T.23]",-0.030178,0.006751,-4.470004,0.000008,-0.043410,-0.016946
+relative_price,"C(item, Treatment(reference=9))[T.25]",0.024332,0.006776,3.590775,0.000330,0.011051,0.037613
+relative_price,"C(item, Treatment(reference=9))[T.26]",-0.043877,0.007081,-6.196435,0.000000,-0.057756,-0.029999
+relative_price,"C(item, Treatment(reference=9))[T.27]",-0.316129,0.006259,-50.507677,0.000000,-0.328397,-0.303862
+relative_price,"C(item, Treatment(reference=9))[T.31]",0.028726,0.007016,4.094193,0.000042,0.014974,0.042477
+relative_price,"C(item, Treatment(reference=9))[T.36]",0.136178,0.007965,17.097215,0.000000,0.120567,0.151789
+relative_price,"C(item, Treatment(reference=9))[T.38]",-0.039678,0.006909,-5.742734,0.000000,-0.053219,-0.026136
+relative_price,source,0.414374,0.008918,46.463902,0.000000,0.396895,0.431853
+relative_price,relative_price,-0.685354,0.011956,-57.321946,0.000000,-0.708788,-0.661920
+relative_price,source:relative_price,-0.712196,0.012299,-57.905574,0.000000,-0.736302,-0.688090
+relative_price,free,0.058182,0.011055,5.263081,0.000000,0.036515,0.079848
+relative_price,source:free,-0.273384,0.011783,-23.201264,0.000000,-0.296479,-0.250290
+price_dollars,Intercept,0.581854,0.007843,74.191801,0.000000,0.566483,0.597225
+price_dollars,"C(item, Treatment(reference=9))[T.10]",-0.021476,0.007275,-2.952177,0.003155,-0.035734,-0.007218
+price_dollars,"C(item, Treatment(reference=9))[T.15]",-0.077987,0.006711,-11.619905,0.000000,-0.091141,-0.064832
+price_dollars,"C(item, Treatment(reference=9))[T.23]",-0.048726,0.007026,-6.935170,0.000000,-0.062497,-0.034956
+price_dollars,"C(item, Treatment(reference=9))[T.25]",0.035073,0.007203,4.869001,0.000001,0.020955,0.049192
+price_dollars,"C(item, Treatment(reference=9))[T.26]",-0.024673,0.007387,-3.339938,0.000838,-0.039151,-0.010194
+price_dollars,"C(item, Treatment(reference=9))[T.27]",0.367370,0.013554,27.103489,0.000000,0.340804,0.393936
+price_dollars,"C(item, Treatment(reference=9))[T.31]",0.023464,0.007529,3.116491,0.001830,0.008707,0.038221
+price_dollars,"C(item, Treatment(reference=9))[T.36]",0.185867,0.007955,23.364015,0.000000,0.170275,0.201459
+price_dollars,"C(item, Treatment(reference=9))[T.38]",0.261567,0.007957,32.871573,0.000000,0.245971,0.277163
+price_dollars,source,0.080445,0.006846,11.751123,0.000000,0.067028,0.093862
+price_dollars,price_dollars,-0.024030,0.000398,-60.385103,0.000000,-0.024810,-0.023250
+price_dollars,source:price_dollars,-0.005972,0.000288,-20.768268,0.000000,-0.006535,-0.005408
+price_dollars,free,0.211645,0.010917,19.386359,0.000000,0.190247,0.233042
+price_dollars,source:free,0.056009,0.011313,4.951004,0.000001,0.033837,0.078181
