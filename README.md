@@ -19,12 +19,14 @@ Sources: `results/real_slopes.csv`, `results/compare1_hypotheses.csv`, `results/
 
 | What | Where |
 |---|---|
-| Final report (analysis, verification, reflection) | `report.pdf` |
-| Record of agent errors and how they were found | `mistakes.md` |
+| **Code** of the agents (scripts, in the order they run) | `src/`, `hpc/`, `blind_run/src/` (see Pipeline below) |
+| **Error analysis**: where the errors were and how they were analysed | `error_analysis.md` |
+| **Reflection** (one page) | `reflection.md` |
+| Full report (analysis, results, robustness, verification table, limitations) | `report.pdf` (LaTeX source in `report/`) |
+| Dated log of every error, session by session | `mistakes.md` |
 | Question, theory, hypotheses, falsification rules and the log of every analysis choice | `plan.md` (section 7 is the dated choices log) |
 | Standing instructions for the agent | `AGENTS.md` |
 | Description of every data column | `data/README.md` |
-| Scripts, in the order they run | `src/`, `hpc/` |
 | Every table and figure | `results/` |
 | Agent-on-its-own run of 12 Nov (not independent, see `mistakes.md` entry 29) | `src/agent_*.py`, `results/agent_run/` |
 | Independent re-run of 17 Nov (fresh session, clean folder, own choices) | `blind_run/` (its choices: `blind_run/results/choices.md`) |
